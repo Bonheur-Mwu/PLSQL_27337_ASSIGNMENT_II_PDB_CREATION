@@ -1,6 +1,6 @@
 # 📘 Assignment II: Database Creation, Deletion & OEM
 
-## NAME: MWUNGERI Bohneur
+## NAME: Bohneur MWUNGERI
 
 ## ID: 29337
 
