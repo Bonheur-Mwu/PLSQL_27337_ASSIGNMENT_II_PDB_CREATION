@@ -17,7 +17,7 @@ This assignment involves creating and deleting **Pluggable Databases (PDBs)** in
 ```SQL
 
 CREATE PLUGGABLE DATABASE Bo_to_delete_pdb_29337
-ADMIN USER Bohneur_27337 IDENTIFIED BY "Boh123"
+ADMIN USER Bohneur_29337 IDENTIFIED BY "Boh123"
 FILE_NAME_CONVERT = (
   'D:\ORACLE21C\ORADATA\ORCL\PDBSEED\',
   'D:\ORACLE21C\ORADATA\ORCL\BO_TO_DELETE_PDB_29337\'
