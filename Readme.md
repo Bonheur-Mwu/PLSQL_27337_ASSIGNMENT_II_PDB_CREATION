@@ -7,7 +7,7 @@
 ## 🧩 Overview
 
 This assignment involves creating and deleting **Pluggable Databases (PDBs)** in Oracle, and configuring **Oracle Enterprise Manager (OEM)**.  
-You will take screenshots of each task and prepare a short report to submit.
+
 
 ---
 
@@ -29,7 +29,7 @@ FILE_NAME_CONVERT = (
 
     
 
----
+
 
 ## 🗑️ Task 2: Create and Delete Another PDB
  
